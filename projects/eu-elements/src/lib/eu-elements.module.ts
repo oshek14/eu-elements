@@ -9,6 +9,6 @@ import { EuInputComponent } from './eu-input/eu-input.component';
   imports: [
     CommonModule
   ],
-  exports: [EuButtonComponent]
+  exports: [EuButtonComponent, EuInputComponent]
 })
 export class EuElementsModule { }
